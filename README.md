@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EzaaMcg4iver
-- 👯 I’m looking to collaborate on OpenSource Projects
 - 🌱 I’m currently learning Javascript
 
 <!---
