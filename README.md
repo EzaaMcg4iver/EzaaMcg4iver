@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzaaMcg4iver
-- 🌱 I’m currently learning Javascript & Pyhton.
+- 🌱 I’m currently learning Javascript & Python.
 
 <!---
 EzaaMcg4iver/EzaaMcg4iver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
